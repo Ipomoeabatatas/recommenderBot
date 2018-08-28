@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "moviefanagent",
+  "private_key_id": "3204b558ea1bc04cb4281f756bcf95e5dca9c606",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvwIBADANBgkqhkiG9w0BAQEFAASCBKkwggSlAgEAAoIBAQCbdVzFqJ5nUZ21\nQ24kqRgPvmpHPhGnDBYo+U5/csCiiCaVJUZl5BTSAxu7QSo5UL9jc7Qc1On/tNbR\npi2a5nnzxuphBz01ZFIcWOQHfWATdWVGD2G5C1areP7haDe+rc4hyei0XBM3ZsJS\nJsG75Xk5KCTlpS2fcj/ewb+7dRqtyTzXSQJ2bAd5Tn6aYSxXRtvWKgpOcWMvFN0l\nVe/6br3nsweuqN4fkxY/X7twXAA7SR877XQbCCQTbOPXSDbQe/D8vuoDR3NhROUG\nvhMyR2C+yDSsuDXFF+T0irOq92N7SBggn8vYD4Lgh/BLaGLNPTdCC+MB3+yMQGyr\nLkSA0PdFAgMBAAECggEAF5OcyohYX7R/zcwIcgxoDwkynpPiAvrhCH1I46jQYMXz\nzgZNbyoAY1pf1A4dvHwLzqYvUHkU9Pgk5T5F59pg7/EAvk7mAEky78QmbyFbVxAk\nmBPAnxsCXbaXtzFCVQuQeczgmyvkqTAPM/zXQGscr6ewMtjSer5Nw/eP37rynRzt\nmKEjZNTthwMOeXIvqpi42nPorP1HnUVHCz+Dvoa6H7RAkz/JrGPaGnrh37V+v5Vz\nsoJ93QLUN5qu8QnmDm8HibSmw25gf0ihMzvIsgVs4qU9gERNvTmFGK8TEyQx09v+\n+E+S7DT8WsTwzTUayTT3Jrlq6nBqqm0PyAx8YRxImQKBgQDUjfWLzHX7pHEUGiOb\nP763sTd0YqL56/Y80ZFvvNOKo3wNIOSUHkS6cMk0QCIkszeQxpclQAG+ysst9Lk8\nAdh4F857CqOZm5Bs/ZltVmoEPDK1q2uSb96GkpJDU54DZ5ycqXksVNPwILK+9aBI\nSqAmxj6uHAW/Awa3hfyH/KWLSQKBgQC7O9ExcbUHExV8+ywHuAyLKmuoNFMk/KcY\nY+2iXEhvNcF1J4/qULMjLeTMoB82rNmgINaSdA78aVn1Tfk6qWsSn0akJLMF6IZB\neWJCWo7C73DB1iSbGl0nzKsunJAM9zuZv0SSZTWfNXsRqeeamHYfz2y01yMCDoWt\nal6JAd6wHQKBgQDOJVQ1Hrp6sZS+I0/PPTayH10iMpvP+graF4KPNTqRZldkwDcQ\ndH7Bt6tcUqsKnwpQDlr+1KIcsb/2tTeFvGB+sNAgQ0RCMT8Uhaxs/3dY3i1sRnHR\nF1Bhgfv68jj5Il8hDbioxyi55myVidHG6yGCGZkm8aSdCclU6szt8pl3iQKBgQCF\n4L6zORf1KAssY7jXCB5IABwcmNV+0/1y7jkD6DKO+oQLDi/UnsGIfQ9l1XScNroh\nynlDHSN+DqKZSZjU/kEmfqcXRXqQ1fPxqya8RV5hOq6Im2NvWEmV5L3eRWqnKrz+\nMYqJlz7hSW9ncPK/UxbbpgiXwmEw3kttdWqFUsX1bQKBgQDFZsSdHl+aQGHENGWW\nySNPM49PadvWFmjA83VUxkbbzTx+3ETbvQO2Ag4DYy+KVM+BeHMfMryq0SChWVQz\na6AodiN5B9WXqdZ6bTJGoUINAxh/s8ZcmZuxFS1BIEQFNKCUR+Plw6sHpzN/RYkh\nmG7KTeMH7DvL+QRM2ugiz4RNkg==\n-----END PRIVATE KEY-----\n",
+  "client_email": "dialogflow-tyftra@moviefanagent.iam.gserviceaccount.com",
+  "client_id": "117282534084009865656",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/dialogflow-tyftra%40moviefanagent.iam.gserviceaccount.com"
+}
